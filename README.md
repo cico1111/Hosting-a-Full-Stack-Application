@@ -1,5 +1,8 @@
 # Hosting a Full-Stack Application
 
+## Access Front-End Application 
+- link:http://mybucket033212455159.s3-website.us-east-2.amazonaws.com
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
