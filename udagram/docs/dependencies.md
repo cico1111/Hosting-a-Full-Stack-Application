@@ -1,0 +1,6 @@
+- Node.js
+- npm 
+- AWS CLI
+- EB CLI
+- RDS
+- S3
